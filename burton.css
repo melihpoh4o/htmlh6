@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+
 div#wrapper , footer {
     margin:auto ;
     width: 1000px;
@@ -29,6 +30,8 @@ section.appel, section.visual{
     float: left;
 
 }
+
+
 
 img.article{
     margin-top: 20px;
